@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2> Hi, I'm Naveen Bandarage! width="50"></h2>
+<h2> Hi, I'm Naveen Bandarage!</h2>
 <p><em>3rd year software engineering student at the <a href="https://www.wgtn.ac.nz/">Victoria University of Wellington</a> 
 </em></p>
 
