@@ -14,16 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<h2> Hi, I'm Naveen Bandarage!</h2>
 <p>I love making things with code. US born/New Zealand raised, I am currently a third year software engineering student studying at the <a href="https://www.wgtn.ac.nz/">Victoria University of Wellington</a></p>
 
 [![GitHub NaveenBandarage](https://img.shields.io/github/followers/NaveenBandarage?label=follow&style=social)](https://github.com/NaveenBandarage)
 [![Twitter: Naveen Bandarage](https://img.shields.io/twitter/follow/NaveenBandarage?style=social)](https://twitter.com/naveenbandarage)
 [![Linkedin: Naveen Bandarage](https://img.shields.io/badge/-NaveenBandarage-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/NaveenBandarage/)](https://www.linkedin.com/in/NaveenBandarage/)
 
-### Some info about me...  
-
+<p>When not coding 👨🏾‍💻 or sleeping 😴 a variety of interests make up the rest of my day. Watching anime 🍜, reading 📖, listening to (a lot of) music 🎧, sweating it out at the gym 🏋🏾‍♀️ and as of recently film and digital photography 📸</p>
 
 ---
 <div align="centre">
