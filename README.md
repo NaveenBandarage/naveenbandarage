@@ -20,7 +20,12 @@ Here are some ideas to get you started:
 [![Twitter: Naveen Bandarage](https://img.shields.io/twitter/follow/NaveenBandarage?style=social)](https://twitter.com/naveenbandarage)
 [![Linkedin: Naveen Bandarage](https://img.shields.io/badge/-NaveenBandarage-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/NaveenBandarage/)](https://www.linkedin.com/in/NaveenBandarage/)
 
-<p>When not coding 👨🏾‍💻 or sleeping 😴 a variety of interests make up the rest of my day. Watching anime 🍜, reading 📖, listening to (a lot of) music 🎧, sweating it out at the gym 🏋🏾‍♀️ and as of recently film and digital photography 📸</p>
+<p>When not coding 👨🏾‍💻 or sleeping 😴 a variety of interests make up the rest of my day.</p>
+- Watching anime 🍜
+- Reading 📖,
+- Listening to (a lot of) music 🎧,
+- Sweating it out at the gym 🏋🏾‍♀️ 
+- Film and digital photography 📸
 
 ---
 <div align="centre">
