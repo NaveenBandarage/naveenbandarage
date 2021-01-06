@@ -1,6 +1,6 @@
 ### 👨🏾‍💻 Hi, I'm Naveen Bandarage! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I love making things with code. US born/New Zealand raised, I am currently a third year software engineering student studying at the <a href="https://www.wgtn.ac.nz/">Victoria University of Wellington</a>
+I love making things with code. US born/New Zealand raised, I am currently a fourth year software engineering student studying at the <a href="https://www.wgtn.ac.nz/">Victoria University of Wellington</a>
 
 [![GitHub NaveenBandarage](https://img.shields.io/github/followers/NaveenBandarage?label=follow&style=social)](https://github.com/NaveenBandarage)
 [![Twitter: Naveen Bandarage](https://img.shields.io/twitter/follow/NaveenBandarage?style=social)](https://twitter.com/naveenbandarage)
