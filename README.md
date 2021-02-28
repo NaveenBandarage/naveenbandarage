@@ -13,7 +13,8 @@ When not coding 👨🏾‍💻 or sleeping 😴 a variety of interests make up 
 - Listening to (a lot of) music 🎧
 - Sweating it out at the gym 🏋🏾‍♀️ 
 - Film and digital photography 📸
-
+- Cryptocurrency & Stocks 📈
+- My cats 😻
 ---
 <div align="centre">
 <sub>Built with ❤︎ by
