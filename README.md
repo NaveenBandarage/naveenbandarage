@@ -18,7 +18,7 @@ When not coding 👨🏾‍💻 or sleeping 😴 a variety of interests make up 
 ---
 <div align="centre">
 <sub>Built by
-   <a href="https://github.com/NaveenBandarage">Naveen Banndarage</a>
+   <a href="https://github.com/NaveenBandarage">Naveen Bandarage</a>
 	with ❤️. 
 	</sub>
  </div>
