@@ -17,7 +17,8 @@ When not coding 👨🏾‍💻 or sleeping 😴 a variety of interests make up 
 - My cats 😻
 ---
 <div align="centre">
-<sub>Built with ❤︎  by
+<sub>Built by
    <a href="https://github.com/NaveenBandarage">Naveen Banndarage</a>
+	with ❤️. 
 	</sub>
  </div>
